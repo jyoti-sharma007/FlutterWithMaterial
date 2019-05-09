@@ -8,6 +8,43 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:572093690907:android:58c863031862ebf8",
+        "android_client_info": {
+          "package_name": "example.com.authen_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572093690907-remvf562l70uvk5on446riri4novtu0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.com.authen_flutter",
+            "certificate_hash": "013971068162e272a4bf157fa601f3c87231b0f2"
+          }
+        },
+        {
+          "client_id": "572093690907-kv2q0jqdaencddsnrd7r3gqt8k81ju6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnvp-h3Q9RvPFYcNW4Nk1k8KtMgVnEy50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572093690907-kv2q0jqdaencddsnrd7r3gqt8k81ju6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:572093690907:android:4878d44f6f65b16a",
         "android_client_info": {
           "package_name": "io.flutter.app.FlutterApplication"
@@ -33,20 +70,13 @@
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
               "client_id": "572093690907-kv2q0jqdaencddsnrd7r3gqt8k81ju6e.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }
